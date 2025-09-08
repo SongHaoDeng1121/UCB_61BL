@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da9387d7-6d55-4337-b370-cc485a71dc5e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../proj1a/src/LinkedListDeque61B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/src/LinkedListDeque61B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/tests/PreconditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/tests/PreconditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/src/deque/ArrayDeque61B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/src/deque/ArrayDeque61B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/tests/ArrayDeque61BTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/tests/ArrayDeque61BTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2zem16XrjJZ5DEVnPHi6jJAqoOt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dengsonghao/Desktop/CS61BL/su25-s198/lab10"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9387d7-6d55-4337-b370-cc485a71dc5e" name="Changes" comment="" />
+      <created>1752099695034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752099695034</updated>
+    </task>
+    <servers />
+  </component>
+</project>
