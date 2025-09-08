@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab01/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab02/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab03/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab04/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab05/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/lab06/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/proj0/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/proj0/src/game2048logic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/proj0/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/proj1a/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/su25-s198/proj1a/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="library-su25" level="project" />
+  </component>
+</module>
